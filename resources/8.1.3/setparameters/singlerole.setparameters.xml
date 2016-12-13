@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="Application Path" value="sitecore813.local" />
+  <setParameter name="Sitecore Admin New Password" value="SuperSecret" />
+  <setParameter name="Core Admin Connection String" value="Data Source=.\;Initial Catalog=Sitecore813_release_core;Integrated Security=False;User ID=sa;Password=12345" />
+  <setParameter name="Core Connection String" value="Data Source=.\;Initial Catalog=Sitecore813_release_core;Integrated Security=False;User ID=sa;Password=12345" />
+  <setParameter name="Master Admin Connection String" value="Data Source=.\;Initial Catalog=Sitecore813_release_master;Integrated Security=False;User ID=sa;Password=12345" />
+  <setParameter name="Master Connection String" value="Data Source=.\;Initial Catalog=Sitecore813_release_master;Integrated Security=False;User ID=sa;Password=12345" />
+  <setParameter name="Web Admin Connection String" value="Data Source=.\;Initial Catalog=Sitecore813_release_web;Integrated Security=False;User ID=sa;Password=12345" />
+  <setParameter name="Web Connection String" value="Data Source=.\;Initial Catalog=Sitecore813_release_web;Integrated Security=False;User ID=sa;Password=12345" />
+  <setParameter name="Reporting Admin Connection String" value="Data Source=.\;Initial Catalog=Sitecore813_release_reporting;Integrated Security=False;User ID=sa;Password=12345" />
+  <setParameter name="Reporting Connection String" value="Data Source=.\;Initial Catalog=Sitecore813_release_reporting;Integrated Security=False;User ID=sa;Password=12345" />
+  <setParameter name="Analytics Connection String" value="mongodb://localhost:27017/Sitecore813_release_analytics" />
+  <setParameter name="Tracking Live Connection String" value="mongodb://localhost:27017/Sitecore813_release_tracking_live" />
+  <setParameter name="Tracking History Connection String" value="mongodb://localhost:27017/Sitecore813_release_tracking_history" />
+  <setParameter name="Tracking Contact Connection String" value="mongodb://localhost:27017/Sitecore813_release_tracking_contact" />      
+  <setParameter name="Build Number" value="5" />      
+</parameters>

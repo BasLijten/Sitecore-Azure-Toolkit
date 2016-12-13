@@ -1,0 +1,10 @@
+{
+    "scwdps":[
+        {
+            "role" : "single",
+            "archiveXml" : "xP0.archive.xml",
+            "parametersXml": "xP0.parameters.xml",
+            "sccpls" : ["BasLijten.OnPremise.RoleSpecific_Single.sccpl"]
+        }
+    ]
+}
